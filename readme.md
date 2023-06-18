@@ -1,4 +1,5 @@
 *NOTE: this is essentially a Deno-ready fork of https://github.com/jquery/esprima*
+
 There might not be a reason for this, but I tend to like to work with bundles (and this version is bundable)
 ----
 Original README.MD text
