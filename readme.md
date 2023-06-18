@@ -1,0 +1,1 @@
+[NOTE: this is essentially a fork of https://github.com/jquery/esprima]
